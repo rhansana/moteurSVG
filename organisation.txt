@@ -1,0 +1,6 @@
+Robert Hansana - écouter le port UDP et recevoir les infos.
+
+Nathan Sajot / Robert Hansana - encodage, décodage avec map (lib cbor)
+
+Paul Robin / Fabien Chevalier / Robert Hansana - modifier l'image avec les valeurs en entrée
+
